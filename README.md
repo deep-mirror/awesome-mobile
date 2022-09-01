@@ -10,4 +10,4 @@
 ## 交流
 如果您对此感兴趣，可以加群沟通交流
 
-![image](resources/group-chat.png)
+![image](resources/chat.png)
